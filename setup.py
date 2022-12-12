@@ -6,14 +6,14 @@ with open("README.md", "r") as txt:
 
 setuptools.setup(
     name='kissmanga',
-    version='1.0.2',
+    version='1.0.9',
     description='An Unofficial Python API Library to Download Manga  for FREE...',
     long_description=long_description,
     long_description_content_type="text/markdown",
     license='License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)',
-    author='metavoid',
-    author_email='metavoidteam@gmail.com',
-    url='https://github.com/moezilla/kissmangaapi.git',
+    author='otakatsu',
+    author_email='moezilla@otakatsu.studio',
+    url='https://github.com/otakatsu/kissmangaapi.git',
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
